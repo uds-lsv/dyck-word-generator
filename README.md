@@ -5,7 +5,7 @@ Python 3 script for generating random [Dyck words](https://en.wikipedia.org/wiki
 ## Background
 
 This script supplements the paper:  
-**Skachkova, N., Trost, T. A., & Klakow, D.** (2018, November). *Closing brackets with recurrent neural networks.*
+**Skachkova, N., Trost, T. A., Kusmirek, A., & Klakow, D.** (2018, November). *Closing brackets with recurrent neural networks.*
 In Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP (pp. 232-239)  
 https://www.aclweb.org/anthology/W18-5425.pdf
 
